@@ -4,4 +4,3 @@
     'MageSuite_ContentConstructorCategory',
     __DIR__
 );
-
